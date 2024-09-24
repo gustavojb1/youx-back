@@ -18,7 +18,7 @@ JWT_EXPIRES_IN=1h
 
 UTILIZE O LOGIN:
 admin@example.com
-senha123
+teste
 
 LINK DO FRONT:
 https://github.com/gustavojb1/youx-front
